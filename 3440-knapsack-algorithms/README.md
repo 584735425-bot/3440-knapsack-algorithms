@@ -13,4 +13,5 @@ src/main/java/com/knapsack/
 Running Method
 1. Environment Requirements
 JDK 8 or higher
+
 Maven 3.6 or higher
